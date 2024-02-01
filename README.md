@@ -18,6 +18,11 @@
 - IT 경영 전공, 이커머스 전공
 - Interest: Design, DB, E-commerce
 
+## ✍️Studying recently
+- Next.js
+- Tailwind.css
+- Typescript
+
 ## 🎨 Activity
 - 23-24 GDSC TUK Core Member (2023.09~ing)
 - GTEP TUK 18기 (2024.01~ing)
