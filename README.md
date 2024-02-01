@@ -81,11 +81,12 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/seojinJeon">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=seojinJeon&show_icons=true&theme=dracula" />
-  </a>
-</p>
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=seojinJeon&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seojinJeon&show_icons=true&theme=radical)
+
+</div>
 
 
 <p align="center">
