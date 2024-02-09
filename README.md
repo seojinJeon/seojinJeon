@@ -10,8 +10,6 @@
   <a href="mailto:gij0321L@naver.com"><img src="https://img.shields.io/badge/Naver%20Mail-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>  
 </p>
 
-###### "We learn more wisdom from failure than from success. He who never makes mistakes is one who has never found one."
-
 
 ## 🗨️ About Me
 - 배울 게 많은 FE developer👩‍💻
@@ -39,12 +37,13 @@
 
 </div>
 
-
+<!--
 <p align="center">
   <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FseojinJeon%2Fhit-counter&count_bg=%23FF752B&title_bg=%23555555&icon=macys.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits"/>
   </a>
 </p>
+-->
 
 <!--
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF8756&height=125&section=footer" />
