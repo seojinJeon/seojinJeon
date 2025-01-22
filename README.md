@@ -15,7 +15,7 @@
 ## 🗨️ About Me
 - 배울 게 많은 FE developer👩‍💻
 - IT 경영 전공, 이커머스 부전공
-- Interest: Plan, Design, E-commerce
+- Interest: Plan, Design, FE Development, E-commerce
 
 ## ✍️Studying recently
 - Flutter
