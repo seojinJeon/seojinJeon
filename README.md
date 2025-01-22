@@ -33,13 +33,13 @@
 ## 📝 Certificate
 - SQLD (2022.12.02)
 - TOEIC Speaking IM2 (2024.12.29)
-  
+
 
 <div align="center">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=seojinJeon&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seojinJeon&show_icons=true&theme=ambient_gradient)
-
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=seojinJeon&theme=buefy)
+  ![](https://github-readme-stats.vercel.app/api?username=seojinJeon&show_icons=true&theme=ambient_gradient)
+  
 </div>
 
 <!--
