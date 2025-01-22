@@ -13,20 +13,23 @@
 
 ## 🗨️ About Me
 - 배울 게 많은 FE developer👩‍💻
-- IT 경영 전공, 이커머스 전공
+- IT 경영 전공, 이커머스 부전공
 - Interest: Design, DB, E-commerce
 
-## ✍️Studying recently
+## 🖥️ Tech Stack
 - Next.js
 - Tailwind.css
 - Typescript
 
 ## 🎨 Activity
-- 23-24 GDSC TUK Core Member (2023.09~ing)
-- GTEP TUK 18기 (2024.01~ing)
+- CMC 16기 Plan (2024.11~2025.03)
+- 24-25 GDSC TUK 3기 Core Member (2024.09~2025.08)
+- 23-24 GDSC TUK 2기 Core Member (2023.09~2024.08)
+- GTEP TUK 18기 (2024.01~2025.02)
 
 ## 📝 Certificate
-- 2022 제 47회 SQL 개발자 (SQLD)
+- SQLD 2022.12.02
+- TOEIC Speaking IM2 2024.12.29
   
 ---
 
