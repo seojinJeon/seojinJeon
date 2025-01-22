@@ -2,6 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=%20seojin&nbsp;Jeon&animation=twinkling&fontSize=65&fadeIn&fontAlignY=38&fontColor=FFFFFF" />
 <!--FF8756-->
 
+<!--
 <p align="left">
   <a href="https://github.com/seojinJeon"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/seojinstory-FEEC44?style=flat-square&logo=kakaotalk&logoColor=black"/></a>
@@ -9,29 +10,78 @@
   <a href="mailto:chsg0321@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="mailto:gij0321L@naver.com"><img src="https://img.shields.io/badge/Naver%20Mail-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>  
 </p>
-
+-->
 
 ## 🗨️ About Me
 - 배울 게 많은 FE developer👩‍💻
 - IT 경영 전공, 이커머스 부전공
-- Interest: Design, DB, E-commerce
+- Interest: Plan, Design, E-commerce
 
-## 🖥️ Tech Stack
-- Next.js
-- Tailwind.css
-- Typescript
+## ⚒️ Tech Stack
+
+<p align="center">
+<strong> Language <br></strong>
+<br>
+  <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-437291?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
+</p>
+
+<p align="center">
+<strong> Frontend <br></strong>
+<br>
+  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+<!--   <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white">  -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
+  <img src="https://img.shields.io/badge/android-34A853?style=for-the-badge&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+</p>
+
+<p align="center">
+<strong> Backend <br></strong>
+<br>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> 
+</p>
+
+<p align="center">
+<strong> Database <br></strong>
+<br>
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/oracle sql-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="icon" /> 
+</p>
+
+<p align="center">
+<strong> Tool <br></strong>
+<br>
+  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="icon" /> 
+  <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white">  
+  <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> 
+  <img src="https://img.shields.io/badge/figma-5B0BB5?style=for-the-badge&logo=figma&logoColor=white" alt="icon" /> 
+  <img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="icon" /> 
+  <img src="https://img.shields.io/badge/google colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="icon" />
+  <img src="https://img.shields.io/badge/android studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="icon" /> 
+  <img src="https://img.shields.io/badge/eclipse ide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" alt="icon" /> 
+  <img src="https://img.shields.io/badge/intellij idea-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="icon" /> 
+  <img src="https://img.shields.io/badge/adobe dreamweaver-FF61F6?style=for-the-badge&logo=adobedreamweaver&logoColor=white" alt="icon" />   
+</p>
+
 
 ## 🎨 Activity
-- CMC 16기 Plan (2024.11~2025.03)
-- 24-25 GDSC TUK 3기 Core Member (2024.09~2025.08)
-- 23-24 GDSC TUK 2기 Core Member (2023.09~2024.08)
-- GTEP TUK 18기 (2024.01~2025.02)
+- CMC 16th Planner (2024.11~2025.03)
+- ICT Intern Web Development & Sales/Marketing (2024.09~2024.12)
+- GDSC TUK 3rd Core Member (2024.09~2025.08)
+- GDSC TUK 2nd Core Member (2023.09~2024.08)
+- GTEP TUK 18th Member (2024.01~2025.02)
+- CBU TUK 15th Member (2023.01~2025.02)
 
 ## 📝 Certificate
-- SQLD 2022.12.02
-- TOEIC Speaking IM2 2024.12.29
+- SQLD (2022.12.02)
+- TOEIC Speaking IM2 (2024.12.29)
   
----
 
 <div align="center">
 
