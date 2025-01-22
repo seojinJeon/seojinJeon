@@ -21,7 +21,6 @@
 - Flutter
 - React.js
 
-
 ## 🎨 Activity
 - CMC 16th Planner (2024.11~2025.03)
 - ICT Intern Web Development & Sales/Marketing (2024.09~2024.12)
@@ -34,7 +33,7 @@
 - SQLD (2022.12.02)
 - TOEIC Speaking IM2 (2024.12.29)
 
-
+## ⭐️GitHub Stats
 <div align="center">
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=seojinJeon&theme=graywhite)
