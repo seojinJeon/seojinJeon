@@ -17,11 +17,11 @@
 - IT 경영 전공, 이커머스 부전공
 - Interest: Plan, Design, FE Development, E-commerce💖
 
-## ✍️Studying recently
+## 🌱 Studying recently
 - Flutter
 - React.js
 
-## 🎨 Activity
+## ✨ Activity
 - CMC 16th Planner (2024.11~2025.03)
 - ICT Intern Web Development & Sales/Marketing (2024.09~2024.12)
 - GDSC TUK 3rd Core Member (2024.09~2025.08)
@@ -29,11 +29,11 @@
 - GTEP TUK 18th Member (2024.01~2025.02)
 - CBU TUK 15th Member (2023.01~2025.02)
 
-## 📝 Certificate
+## 🪪 Certificate
 - SQLD (2022.12.02)
 - TOEIC Speaking IM2 (2024.12.29)
 
-## ⭐️GitHub Stats
+## 📊 GitHub Stats
 <div align="center">
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=seojinJeon&theme=graywhite)
