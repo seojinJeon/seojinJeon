@@ -41,6 +41,9 @@
   
 </div>
 
+## My Pinned Gist
+- [Gist](https://gist.github.com/seojinJeon/549bb09b749c1a01d9dc345681d17f9c)
+
 <!--
 <p align="center">
   <a href="https://hits.seeyoufarm.com">
