@@ -41,7 +41,7 @@
   
 </div>
 
-## My Pinned Gist
+## My Gist
 - [Gist](https://gist.github.com/seojinJeon/549bb09b749c1a01d9dc345681d17f9c)
 
 <!--
