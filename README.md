@@ -16,11 +16,6 @@
 </p>
 -->
 
-## 🗨️ About Me
-- 배울 게 많은 FE developer👩‍💻
-- IT 경영 전공, 이커머스 부전공
-- Interest: Plan, Design, FE Development, E-commerce💖
-
 ## ✨ Activity
 - CMC 16th Planner (2024.11~2025.03)
 - ICT Intern Web Development & Sales/Marketing (2024.09~2024.12)
