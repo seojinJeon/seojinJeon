@@ -6,6 +6,11 @@
 
 
 
+## 🛠️ Tech Stacks
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=js,ts,flutter,html,css,py,react,redux,styledcomponents,tailwind,figma,git,github,notion" /> 
+</a>
+
 <!--
 <p align="left">
   <a href="https://github.com/seojinJeon"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
