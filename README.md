@@ -1,9 +1,5 @@
 
-
-
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=758bfd&text=Jeon%20Seojin&height=150&fontSize=60&desc=%20FE%20Developer&descAlignY=85&descAlign=68)
-
-
 
 
 ## 🛠️ Tech Stacks
@@ -44,7 +40,7 @@
 ## 📊 GitHub Stats
 <div align="center">
   
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=seojinJeon&theme=graywhite)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=seojinJeon&theme=aura)
   ![](https://github-readme-stats.vercel.app/api?username=seojinJeon&show_icons=true&theme=ambient_gradient)
   
 </div>
@@ -56,8 +52,4 @@
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FseojinJeon%2Fhit-counter&count_bg=%23FF752B&title_bg=%23555555&icon=macys.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits"/>
   </a>
 </p>
--->
-
-<!--
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF8756&height=125&section=footer" />
 -->
