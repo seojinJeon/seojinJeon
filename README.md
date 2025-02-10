@@ -8,7 +8,7 @@
 
 ## 🛠️ Tech Stacks
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,ts,flutter,html,css,py,react,redux,styledcomponents,tailwind,figma,git,github,notion" /> 
+<img src="https://skillicons.dev/icons?i=flutter,dart,py,ts,html,css,js,next,react,styledcomponents,tailwind,java,eclipse,visualstudio,androidstudio,figma,github,discord,notion" /> 
 </a>
 
 <!--
@@ -21,13 +21,21 @@
 </p>
 -->
 
-## ✨ Activity
+## 🍇 Activity
 - CMC 16th Planner (2024.11~2025.03)
 - ICT Intern Web Development & Sales/Marketing (2024.09~2024.12)
 - GDSC TUK 3rd Core Member (2024.09~2025.08)
 - GDSC TUK 2nd Core Member (2023.09~2024.08)
-- GTEP TUK 18th Member (2024.01~2025.02)
+- SV Techeer Partners 2nd Member (2023.03~2023.06)
 - CBU TUK 15th Member (2023.01~2025.02)
+
+## 👩‍💻 Projects
+- [Dice] 소상공인 · 자영업자를 위한 맞춤형 팝업스토어 올인원 서비스 (Plan)
+- [Vital Ring] AI 디지털 헬스케어 반지형 웨어러블 기기 소개 웹사이트 제작 (FE)
+- [Coner] 서비스 지연 문제를 해결하기 위한 냉난방기 종합 서비스 플랫폼 (FE)
+- [Fit-A-Pet] 반려동물 혈당 데이터를 통한 맞춤형 사료 추천 플랫폼 (FE)
+- [MyLio] AI를 활용한 맞춤형 자기소개서 앱 제작 (FE)
+- [Daum] 노션에 없는 기능을 추가한 우리만의 노션 웹사이트 제작 (FE)
 
 ## 🪪 Certificate
 - SQLD (2022.12.02)
