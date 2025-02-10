@@ -1,6 +1,10 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=%20seojin&nbsp;Jeon&animation=twinkling&fontSize=65&fadeIn&fontAlignY=38&fontColor=FFFFFF" />
-<!--FF8756-->
+
+
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=758bfd&text=Jeon%20Seojin&height=150&fontSize=60&desc=%20FE%20Developer&descAlignY=85&descAlign=68)
+
+
+
 
 <!--
 <p align="left">
@@ -16,10 +20,6 @@
 - 배울 게 많은 FE developer👩‍💻
 - IT 경영 전공, 이커머스 부전공
 - Interest: Plan, Design, FE Development, E-commerce💖
-
-## 🌱 Studying recently
-- Flutter
-- React.js
 
 ## ✨ Activity
 - CMC 16th Planner (2024.11~2025.03)
@@ -41,8 +41,6 @@
   
 </div>
 
-## My Gist
-- [Gist](https://gist.github.com/seojinJeon/549bb09b749c1a01d9dc345681d17f9c)
 
 <!--
 <p align="center">
