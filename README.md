@@ -4,7 +4,7 @@
 
 ## 🛠️ Tech Stacks
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=flutter,dart,py,ts,html,css,js,next,react,styledcomponents,tailwind,java,eclipse,visualstudio,androidstudio,figma,github,discord,notion" /> 
+<img src="https://skillicons.dev/icons?i=flutter,dart,py,ts,html,css,js,next,react,styledcomponents,tailwind,jquery,java,eclipse,vscode,androidstudio,mysql,figma,ps,ai,github,discord,notion" /> 
 </a>
 
 <!--
