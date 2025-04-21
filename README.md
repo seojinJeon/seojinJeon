@@ -18,6 +18,7 @@
 -->
 
 ## 🍇 Activity
+- DENTALVERSE Service Planner (2025.04~ing)
 - CMC 16th Planner (2024.11~2025.03)
 - ICT Intern Web Development & Sales/Marketing (2024.09~2024.12)
 - GDSC TUK 3rd Core Member (2024.09~2025.08)
