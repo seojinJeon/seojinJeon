@@ -18,6 +18,7 @@
 -->
 
 ## 🍇 Activity
+- 균형과 매듭 Service Planner (2025.07~2025.12)
 - DENTALVERSE Service Planner (2025.04~2025.06)
 - CMC 16th Planner (2024.11~2025.03)
 - ICT Intern Web Development & Sales/Marketing (2024.09~2024.12)
@@ -27,6 +28,7 @@
 - CBU TUK 15th Member (2023.01~2025.02)
 
 ## 👩‍💻 Projects
+- [MBA1] 블록체인 기반 암호화폐 자동 트레이딩 서비스 & [MnCO Wallet] 암호화폐 지갑 앱 (Plan)
 - [DENTALVERSE] AI 치의학 솔루션 서비스 (Plan)
 - [Dice] 소상공인 · 자영업자를 위한 맞춤형 팝업스토어 올인원 서비스 (Plan)
 - [Vital Ring] AI 디지털 헬스케어 반지형 웨어러블 기기 홈 페이지 제작 (FE)
